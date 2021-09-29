@@ -1,0 +1,28 @@
+{
+  "name": "challenge-1",
+  "version": "1.0.0",
+  "description": "challenge 1 nodejs Five Points",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/youssefdridi95/fivePointsNodeJsChallenge1.git"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "crud"
+  ],
+  "author": "youssef dridi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/youssefdridi95/fivePointsNodeJsChallenge1/issues"
+  },
+  "homepage": "https://github.com/youssefdridi95/fivePointsNodeJsChallenge1#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
